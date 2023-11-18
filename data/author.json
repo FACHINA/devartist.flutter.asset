@@ -5,7 +5,7 @@
         "authorName": "DevArtist",
         "firstName": "Anderson",
         "lastName": "FACHINA",
-        "photoUrl": "https://github.com/FACHINA/devartist.flutter.asset/blob/main/channel/devartist.jpg?raw=true",
+        "photoUrl": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/devartist.jpg?raw=true",
         "isVerified": true
       },
       {
@@ -13,7 +13,7 @@
         "authorName": "KOLAMA",
         "firstName": "Fadil",
         "lastName": "FACHINA",
-        "photoUrl": "https://github.com/FACHINA/devartist.flutter.asset/blob/main/channel/me.jpg?raw=true",
+        "photoUrl": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/me.jpg?raw=true",
         "isVerified": true
       },
       {
@@ -21,7 +21,7 @@
         "authorName": "Fake Dev",
         "firstName": "Rakro",
         "lastName": "WISE",
-        "photoUrl": "https://github.com/FACHINA/devartist.flutter.asset/blob/main/channel/fakedev.jpg?raw=true",
+        "photoUrl": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/fakedev.jpg?raw=true",
         "isVerified": false
       },
       {
@@ -29,7 +29,7 @@
         "authorName": "Spark R",
         "firstName": "Spark",
         "lastName": "REGALO",
-        "photoUrl": "https://github.com/FACHINA/devartist.flutter.asset/blob/main/channel/spark.png?raw=true",
+        "photoUrl": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/spark.png?raw=true",
         "isVerified": true
       },
       {
@@ -37,7 +37,7 @@
         "authorName": "Nantis",
         "firstName": "Ark",
         "lastName": "NAMBIL",
-        "photoUrl": "https://github.com/FACHINA/devartist.flutter.asset/blob/main/channel/nanit.jpg?raw=true",
+        "photoUrl": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/nanit.jpg?raw=true",
         "isVerified": false
       },
       {
@@ -45,7 +45,7 @@
         "authorName": "Devs One",
         "firstName": "Sigle",
         "lastName": "DAVID",
-        "photoUrl": "https://github.com/FACHINA/devartist.flutter.asset/blob/main/channel/devs.png?raw=true",
+        "photoUrl": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/devs.png?raw=true",
         "isVerified": true
       }
     ]
