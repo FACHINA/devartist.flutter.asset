@@ -5,7 +5,7 @@
 		"description": "Tout ce dont vous avez besoin pour faire vos débuts en programmation web",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/html_css.png",
 		"level": "normal",
-		"autor": 2,
+		"autor_id": 2,
 		"total_chapter": 8
 	},
 	{
@@ -14,7 +14,7 @@
 		"description": "La programmation frontend, ça vous dit ? Dans ce cours, vous aurez tout ce dont vous aurez besoin pour devenir développeur frontend accompli",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/vuejs-2.jpg",
 		"level": "advanced",
-		"autor": 1,
+		"autor_id": 1,
 		"total_chapter": 15
 	},
 	{
@@ -23,7 +23,7 @@
 		"description": "Le cours de programmation Flutter est conçu pour vous initier au développement d'applications mobiles multiplateformes de haute qualité. Flutter est un framework open-source créé par Google, qui permet de créer des applications mobiles pour Android et iOS à partir d'un seul code source.",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/flutter.jpg",
 		"level": "advanced",
-		"autor": 4,
+		"autor_id": 4,
 		"total_chapter": 30
 	},
 	{
@@ -32,7 +32,7 @@
 		"description": "Le cours de développement Backend avec Node.js est conçu pour vous familiariser avec la création d'applications côté serveur en utilisant la plateforme Node.js. Node.js est un environnement d'exécution JavaScript côté serveur qui vous permet de construire des applications web rapides, évolutives et efficaces",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nodejs-2.jpeg",
 		"level": "pro",
-		"autor": 1,
+		"autor_id": 1,
 		"total_chapter": 40
 	},
 	{
@@ -41,7 +41,7 @@
 		"description": "Le cours de développement Backend avec Symfony vous initie à la création d'applications web côté serveur en utilisant le framework PHP Symfony. Symfony est un framework puissant et populaire qui facilite le développement d'applications web robustes, évolutives et sécurisées.",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/symfony-2.jpg",
 		"level": "normal",
-		"autor": 6,
+		"autor_id": 6,
 		"total_chapter": 32
 	},
 	{
@@ -50,7 +50,7 @@
 		"description": "Découvrez Laravel, le framework PHP moderne. Apprenez à créer des applications web efficaces grâce à sa simplicité et ses fonctionnalités avancées : routopice, ORM Eloquent, sécurité. Maîtrisez la création d'API et l'authentification. Développez rapidement avec des vues élégantes grâce à Blade. Devenez un développeur Laravel compétent en suivant ce cours approfondi.",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/laravel8.jpg",
 		"level": "normal",
-		"autor": 5,
+		"autor_id": 5,
 		"total_chapter": 25
 	},
 	{
@@ -59,7 +59,7 @@
 		"description": "Cours sur Angular : Cadre de développement web open-source. Enseigne création d'applications dynamiques avec TypeScript, HTML, CSS. Composants, routopice, liaison de données, services. MVC pour interfaces modernes et réactives.",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/angular.jpg",
 		"level": "pro",
-		"autor": 1,
+		"autor_id": 1,
 		"total_chapter": 14
 	},
 	{
@@ -68,7 +68,7 @@
 		"description": "Découvrez React JS : bibliothèque JavaScript populaire pour créer des interfaces utilisateur interactives et performantes. Apprenez les composants, l'état, les événements et le JSX pour construire des applications web modernes. Explorez la réactivité sans rechargement de page et la gestion efficace de l'UI. Développez des compétences essentielles en développement web frontend.",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/reactjs-2.jpg",
 		"level": "advanced",
-		"autor": 3,
+		"autor_id": 3,
 		"total_chapter": 27
 	},
 	{
@@ -77,7 +77,7 @@
 		"description": "Découvrez Next.js : framework React pour apps web rapides et SEO-friendly. Rendu côté serveur, routopice dynamique, gestion état, performance optimale. Apprenez SSR, SSG, API routes, déploiement Vercel.",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nextjs.jpg",
 		"level": "advanced",
-		"autor": 4,
+		"autor_id": 4,
 		"total_chapter": 18
 	},
 	{
@@ -86,7 +86,7 @@
 		"description": "Découvrez Nuxt.js : cadre de développement web Vue.js. Apprenez la création d'applications SSR, routopice, gestion de l'état, optimisation SEO. Concevez des sites performants et interactifs avec ce cours pratique.",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nuxtjs.jpg",
 		"level": "advanced",
-		"autor": 5,
+		"autor_id": 5,
 		"total_chapter": 15
 	},
 	{
@@ -95,7 +95,7 @@
 		"description": "Découvrez les fondamentaux de Rails : framework web élégant et efficace. Apprenez création rapide d'applications robustes, MVC, bases de données, interactions dynamiques et sécurité. Gagnez compétences pour développer avec agilité.",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/rails.jpg",
 		"level": "pro",
-		"autor": 4,
+		"autor_id": 4,
 		"total_chapter": 40
 	},
 	{
@@ -104,7 +104,7 @@
 		"description": "Plongez-vous dans l'univers de Python avec notre cours intensif. Apprenez les bases et avancez rapidement grâce à des leçons condensées, des exercices pratiques et des projets concrets. Explorez les structures de contrôle, les fonctions, la manipulation de données et plus encore. Idéal pour les débutants ou ceux cherchant à consolider leurs compétences.",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/django.jpg",
 		"level": "pro",
-		"autor": 3,
+		"autor_id": 3,
 		"total_chapter": 47
 	},
 	{
@@ -113,7 +113,7 @@
 		"description": "Découvrez Laravel, le framework PHP moderne. Apprenez à créer des applications web efficaces grâce à sa simplicité et ses fonctionnalités avancées : routopice, ORM Eloquent, sécurité. Maîtrisez la création d'API et l'authentification. Développez rapidement avec des vues élégantes grâce à Blade. Devenez un développeur Laravel compétent en suivant ce cours approfondi.",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/laravel10.jpg",
 		"level": "advanced",
-		"autor": 2,
+		"autor_id": 2,
 		"total_chapter": 25
 	},
 	{
@@ -122,7 +122,7 @@
 		"description": "Découvrez Next.js : framework React pour apps web rapides et SEO-friendly. Rendu côté serveur, routopice dynamique, gestion état, performance optimale. Apprenez SSR, SSG, API routes, déploiement Vercel.",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nextjs.png",
 		"level": "pro",
-		"autor": 2,
+		"autor_id": 2,
 		"total_chapter": 18
 	},
 	{
@@ -131,7 +131,7 @@
 		"description": "Tout ce dont vous avez besoin pour faire vos débuts en programmation web",
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nextjs.png",
 		"level": "pro",
-		"autor": 3,
+		"autor_id": 3,
 		"total_chapter": 18
 	}
 ]
