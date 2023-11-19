@@ -6,7 +6,7 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/html_css.png",
 		"type": "normal",
 		"autor": 2,
-		"totalChapter": 8
+		"total_chapter": 8
 	},
 	{
 		"id": 2,
@@ -15,7 +15,7 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/vuejs-2.jpg",
 		"type": "advanced",
 		"autor": 1,
-		"totalChapter": 15
+		"total_chapter": 15
 	},
 	{
 		"id": 3,
@@ -24,7 +24,7 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/flutter.jpg",
 		"type": "advanced",
 		"autor": 4,
-		"totalChapter": 30
+		"total_chapter": 30
 	},
 	{
 		"id": 4,
@@ -33,7 +33,7 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nodejs-2.jpeg",
 		"type": "pro",
 		"autor": 1,
-		"totalChapter": 40
+		"total_chapter": 40
 	},
 	{
 		"id": 5,
@@ -42,7 +42,7 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/symfony-2.jpg",
 		"type": "normal",
 		"autor": 6,
-		"totalChapter": 32
+		"total_chapter": 32
 	},
 	{
 		"id": 6,
@@ -51,7 +51,7 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/laravel8.jpg",
 		"type": "normal",
 		"autor": 5,
-		"totalChapter": 25
+		"total_chapter": 25
 	},
 	{
 		"id": 7,
@@ -60,7 +60,7 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/angular.jpg",
 		"type": "pro",
 		"autor": 1,
-		"totalChapter": 14
+		"total_chapter": 14
 	},
 	{
 		"id": 8,
@@ -69,7 +69,7 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/reactjs-2.jpg",
 		"type": "advanced",
 		"autor": 3,
-		"totalChapter": 27
+		"total_chapter": 27
 	},
 	{
 		"id": 9,
@@ -78,7 +78,7 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nextjs.jpg",
 		"type": "advanced",
 		"autor": 4,
-		"totalChapter": 18
+		"total_chapter": 18
 	},
 	{
 		"id": 10,
@@ -87,7 +87,7 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nuxtjs.jpg",
 		"type": "advanced",
 		"autor": 5,
-		"totalChapter": 15
+		"total_chapter": 15
 	},
 	{
 		"id": 11,
@@ -96,7 +96,7 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/rails.jpg",
 		"type": "pro",
 		"autor": 4,
-		"totalChapter": 40
+		"total_chapter": 40
 	},
 	{
 		"id": 12,
@@ -105,7 +105,7 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/django.jpg",
 		"type": "pro",
 		"autor": 3,
-		"totalChapter": 47
+		"total_chapter": 47
 	},
 	{
 		"id": 13,
@@ -114,7 +114,7 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/laravel10.jpg",
 		"type": "advanced",
 		"autor": 2,
-		"totalChapter": 25
+		"total_chapter": 25
 	},
 	{
 		"id": 14,
@@ -123,7 +123,7 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nextjs.png",
 		"type": "pro",
 		"autor": 2,
-		"totalChapter": 18
+		"total_chapter": 18
 	},
 	{
 		"id": 15,
@@ -132,6 +132,6 @@
 		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nextjs.png",
 		"type": "pro",
 		"autor": 3,
-		"totalChapter": 18
+		"total_chapter": 18
 	}
 ]

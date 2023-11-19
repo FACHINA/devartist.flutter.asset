@@ -1,51 +1,51 @@
  [
       {
         "id": 1,
-        "authorName": "DevArtist",
-        "firstName": "Anderson",
-        "lastName": "FACHINA",
-        "photoUrl": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/devartist.jpg?raw=true",
-        "isVerified": true
+        "author_name": "DevArtist",
+        "first_name": "Anderson",
+        "last_name": "FACHINA",
+        "photo_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/devartist.jpg?raw=true",
+        "is_verified": true
       },
       {
         "id": 2,
-        "authorName": "KOLAMA",
-        "firstName": "Fadil",
-        "lastName": "FACHINA",
-        "photoUrl": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/me.jpg?raw=true",
-        "isVerified": true
+        "author_name": "KOLAMA",
+        "first_name": "Fadil",
+        "last_name": "FACHINA",
+        "photo_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/me.jpg?raw=true",
+        "is_verified": true
       },
       {
         "id": 3,
-        "authorName": "Fake Dev",
-        "firstName": "Rakro",
-        "lastName": "WISE",
-        "photoUrl": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/fakedev.jpg?raw=true",
-        "isVerified": false
+        "author_name": "Fake Dev",
+        "first_name": "Rakro",
+        "last_name": "WISE",
+        "photo_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/fakedev.jpg?raw=true",
+        "is_verified": false
       },
       {
         "id": 4,
-        "authorName": "Spark R",
-        "firstName": "Spark",
-        "lastName": "REGALO",
-        "photoUrl": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/spark.png?raw=true",
-        "isVerified": true
+        "author_name": "Spark R",
+        "first_name": "Spark",
+        "last_name": "REGALO",
+        "photo_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/spark.png?raw=true",
+        "is_verified": true
       },
       {
         "id": 5,
-        "authorName": "Nantis",
-        "firstName": "Ark",
-        "lastName": "NAMBIL",
-        "photoUrl": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/nanit.jpg?raw=true",
-        "isVerified": false
+        "author_name": "Nantis",
+        "first_name": "Ark",
+        "last_name": "NAMBIL",
+        "photo_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/nanit.jpg?raw=true",
+        "is_verified": false
       },
       {
         "id": 6,
-        "authorName": "Devs One",
-        "firstName": "Sigle",
-        "lastName": "DAVID",
-        "photoUrl": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/devs.png?raw=true",
-        "isVerified": true
+        "author_name": "Devs One",
+        "first_name": "Sigle",
+        "last_name": "DAVID",
+        "photo_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/channel/devs.png?raw=true",
+        "is_verified": true
       }
     ]
 
