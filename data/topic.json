@@ -1,5 +1,4 @@
-{
-	"topics": [
+ [
 		{
 			"id": 1,
 			"name": "Vue JS",
@@ -140,4 +139,4 @@
 			"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/topics/sql.png"
 		}
 	]
-}
+

@@ -1,140 +1,137 @@
-{
-    "courses": [
-      {
-        "id": 1,
-        "title": "HTML CSS et Javascript",
-        "description": "Tout ce dont vous avez besoin pour faire vos débuts en programmation web",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/html_css.png",
-        "type": "normal",
-        "autor": 2,
-        "totalChapter": 8
-      },
-      {
-        "id": 2,
-        "title": "Vue JS + Typescript",
-        "description": "La programmation frontend, ça vous dit ? Dans ce cours, vous aurez tout ce dont vous aurez besoin pour devenir développeur frontend accompli",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/vuejs-2.jpg",
-        "type": "advanced",
-        "autor": 1,
-        "totalChapter": 15
-      },
-      {
-        "id": 3,
-        "title": "Flutter - Programmation mobile Cross X Plateforme",
-        "description": "Le cours de programmation Flutter est conçu pour vous initier au développement d'applications mobiles multiplateformes de haute qualité. Flutter est un framework open-source créé par Google, qui permet de créer des applications mobiles pour Android et iOS à partir d'un seul code source.",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/flutter.jpg",
-        "type": "advanced",
-        "autor": 4,
-        "totalChapter": 30
-      },
-      {
-        "id": 4,
-        "title": "Node JS - Dev Backend",
-        "description": "Le cours de développement Backend avec Node.js est conçu pour vous familiariser avec la création d'applications côté serveur en utilisant la plateforme Node.js. Node.js est un environnement d'exécution JavaScript côté serveur qui vous permet de construire des applications web rapides, évolutives et efficaces",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nodejs-2.jpeg",
-        "type": "pro",
-        "autor": 1,
-        "totalChapter": 40
-      },
-      {
-        "id": 5,
-        "title": "Symfony - Programmation web Backend",
-        "description": "Le cours de développement Backend avec Symfony vous initie à la création d'applications web côté serveur en utilisant le framework PHP Symfony. Symfony est un framework puissant et populaire qui facilite le développement d'applications web robustes, évolutives et sécurisées.",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/symfony-2.jpg",
-        "type": "normal",
-        "autor": 6,
-        "totalChapter": 32
-      },
-      {
-        "id": 6,
-        "title": "Laravel 8 - Dev FullStack",
-        "description": "Découvrez Laravel, le framework PHP moderne. Apprenez à créer des applications web efficaces grâce à sa simplicité et ses fonctionnalités avancées : routopice, ORM Eloquent, sécurité. Maîtrisez la création d'API et l'authentification. Développez rapidement avec des vues élégantes grâce à Blade. Devenez un développeur Laravel compétent en suivant ce cours approfondi.",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/laravel8.jpg",
-        "type": "normal",
-        "autor": 5,
-        "totalChapter": 25
-      },
-      {
-        "id": 7,
-        "title": "Angular JS - Développement web FullStack",
-        "description": "Cours sur Angular : Cadre de développement web open-source. Enseigne création d'applications dynamiques avec TypeScript, HTML, CSS. Composants, routopice, liaison de données, services. MVC pour interfaces modernes et réactives.",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/angular.jpg",
-        "type": "pro",
-        "autor": 1,
-        "totalChapter": 14
-      },
-      {
-        "id": 8,
-        "title": "React JS - Programmation Frontend",
-        "description": "Découvrez React JS : bibliothèque JavaScript populaire pour créer des interfaces utilisateur interactives et performantes. Apprenez les composants, l'état, les événements et le JSX pour construire des applications web modernes. Explorez la réactivité sans rechargement de page et la gestion efficace de l'UI. Développez des compétences essentielles en développement web frontend.",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/reactjs-2.jpg",
-        "type": "advanced",
-        "autor": 3,
-        "totalChapter": 27
-      },
-      {
-        "id": 9,
-        "title": "Next JS - Programmation Fullstack",
-        "description": "Découvrez Next.js : framework React pour apps web rapides et SEO-friendly. Rendu côté serveur, routopice dynamique, gestion état, performance optimale. Apprenez SSR, SSG, API routes, déploiement Vercel.",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nextjs.jpg",
-        "type": "advanced",
-        "autor": 4,
-        "totalChapter": 18
-      },
-      {
-        "id": 10,
-        "title": "Nuxt.JS",
-        "description": "Découvrez Nuxt.js : cadre de développement web Vue.js. Apprenez la création d'applications SSR, routopice, gestion de l'état, optimisation SEO. Concevez des sites performants et interactifs avec ce cours pratique.",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nuxtjs.jpg",
-        "type": "advanced",
-        "autor": 5,
-        "totalChapter": 15
-      },
-      {
-        "id": 11,
-        "title": "Ruby on Rails",
-        "description": "Découvrez les fondamentaux de Rails : framework web élégant et efficace. Apprenez création rapide d'applications robustes, MVC, bases de données, interactions dynamiques et sécurité. Gagnez compétences pour développer avec agilité.",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/rails.jpg",
-        "type": "pro",
-        "autor": 4,
-        "totalChapter": 40
-      },
-      {
-        "id": 12,
-        "title": "Python - Django bootcamp (Cours intensif)",
-        "description": "Plongez-vous dans l'univers de Python avec notre cours intensif. Apprenez les bases et avancez rapidement grâce à des leçons condensées, des exercices pratiques et des projets concrets. Explorez les structures de contrôle, les fonctions, la manipulation de données et plus encore. Idéal pour les débutants ou ceux cherchant à consolider leurs compétences.",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/django.jpg",
-        "type": "pro",
-        "autor": 3,
-        "totalChapter": 47
-      },
-      {
-        "id": 13,
-        "title": "Laravel 10 (PRo) - Dev FullStack",
-        "description": "Découvrez Laravel, le framework PHP moderne. Apprenez à créer des applications web efficaces grâce à sa simplicité et ses fonctionnalités avancées : routopice, ORM Eloquent, sécurité. Maîtrisez la création d'API et l'authentification. Développez rapidement avec des vues élégantes grâce à Blade. Devenez un développeur Laravel compétent en suivant ce cours approfondi.",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/laravel10.jpg",
-        "type": "advanced",
-        "autor": 2,
-        "totalChapter": 25
-      },
-      {
-        "id": 14,
-        "title": "Next JS (Pro) - Programmation Fullstack",
-        "description": "Découvrez Next.js : framework React pour apps web rapides et SEO-friendly. Rendu côté serveur, routopice dynamique, gestion état, performance optimale. Apprenez SSR, SSG, API routes, déploiement Vercel.",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nextjs.png",
-        "type": "pro",
-        "autor": 2,
-        "totalChapter": 18
-      },
-      {
-        "id": 15,
-        "title": "HTML, CSS et Javascript (Pro) - Complet web",
-        "description": "Tout ce dont vous avez besoin pour faire vos débuts en programmation web",
-        "image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nextjs.png",
-        "type": "pro",
-        "autor": 3,
-        "totalChapter": 18
-      }
-    ]
-  }
-  
+[
+	{
+		"id": 1,
+		"title": "HTML CSS et Javascript",
+		"description": "Tout ce dont vous avez besoin pour faire vos débuts en programmation web",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/html_css.png",
+		"type": "normal",
+		"autor": 2,
+		"totalChapter": 8
+	},
+	{
+		"id": 2,
+		"title": "Vue JS + Typescript",
+		"description": "La programmation frontend, ça vous dit ? Dans ce cours, vous aurez tout ce dont vous aurez besoin pour devenir développeur frontend accompli",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/vuejs-2.jpg",
+		"type": "advanced",
+		"autor": 1,
+		"totalChapter": 15
+	},
+	{
+		"id": 3,
+		"title": "Flutter - Programmation mobile Cross X Plateforme",
+		"description": "Le cours de programmation Flutter est conçu pour vous initier au développement d'applications mobiles multiplateformes de haute qualité. Flutter est un framework open-source créé par Google, qui permet de créer des applications mobiles pour Android et iOS à partir d'un seul code source.",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/flutter.jpg",
+		"type": "advanced",
+		"autor": 4,
+		"totalChapter": 30
+	},
+	{
+		"id": 4,
+		"title": "Node JS - Dev Backend",
+		"description": "Le cours de développement Backend avec Node.js est conçu pour vous familiariser avec la création d'applications côté serveur en utilisant la plateforme Node.js. Node.js est un environnement d'exécution JavaScript côté serveur qui vous permet de construire des applications web rapides, évolutives et efficaces",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nodejs-2.jpeg",
+		"type": "pro",
+		"autor": 1,
+		"totalChapter": 40
+	},
+	{
+		"id": 5,
+		"title": "Symfony - Programmation web Backend",
+		"description": "Le cours de développement Backend avec Symfony vous initie à la création d'applications web côté serveur en utilisant le framework PHP Symfony. Symfony est un framework puissant et populaire qui facilite le développement d'applications web robustes, évolutives et sécurisées.",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/symfony-2.jpg",
+		"type": "normal",
+		"autor": 6,
+		"totalChapter": 32
+	},
+	{
+		"id": 6,
+		"title": "Laravel 8 - Dev FullStack",
+		"description": "Découvrez Laravel, le framework PHP moderne. Apprenez à créer des applications web efficaces grâce à sa simplicité et ses fonctionnalités avancées : routopice, ORM Eloquent, sécurité. Maîtrisez la création d'API et l'authentification. Développez rapidement avec des vues élégantes grâce à Blade. Devenez un développeur Laravel compétent en suivant ce cours approfondi.",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/laravel8.jpg",
+		"type": "normal",
+		"autor": 5,
+		"totalChapter": 25
+	},
+	{
+		"id": 7,
+		"title": "Angular JS - Développement web FullStack",
+		"description": "Cours sur Angular : Cadre de développement web open-source. Enseigne création d'applications dynamiques avec TypeScript, HTML, CSS. Composants, routopice, liaison de données, services. MVC pour interfaces modernes et réactives.",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/angular.jpg",
+		"type": "pro",
+		"autor": 1,
+		"totalChapter": 14
+	},
+	{
+		"id": 8,
+		"title": "React JS - Programmation Frontend",
+		"description": "Découvrez React JS : bibliothèque JavaScript populaire pour créer des interfaces utilisateur interactives et performantes. Apprenez les composants, l'état, les événements et le JSX pour construire des applications web modernes. Explorez la réactivité sans rechargement de page et la gestion efficace de l'UI. Développez des compétences essentielles en développement web frontend.",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/reactjs-2.jpg",
+		"type": "advanced",
+		"autor": 3,
+		"totalChapter": 27
+	},
+	{
+		"id": 9,
+		"title": "Next JS - Programmation Fullstack",
+		"description": "Découvrez Next.js : framework React pour apps web rapides et SEO-friendly. Rendu côté serveur, routopice dynamique, gestion état, performance optimale. Apprenez SSR, SSG, API routes, déploiement Vercel.",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nextjs.jpg",
+		"type": "advanced",
+		"autor": 4,
+		"totalChapter": 18
+	},
+	{
+		"id": 10,
+		"title": "Nuxt.JS",
+		"description": "Découvrez Nuxt.js : cadre de développement web Vue.js. Apprenez la création d'applications SSR, routopice, gestion de l'état, optimisation SEO. Concevez des sites performants et interactifs avec ce cours pratique.",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nuxtjs.jpg",
+		"type": "advanced",
+		"autor": 5,
+		"totalChapter": 15
+	},
+	{
+		"id": 11,
+		"title": "Ruby on Rails",
+		"description": "Découvrez les fondamentaux de Rails : framework web élégant et efficace. Apprenez création rapide d'applications robustes, MVC, bases de données, interactions dynamiques et sécurité. Gagnez compétences pour développer avec agilité.",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/rails.jpg",
+		"type": "pro",
+		"autor": 4,
+		"totalChapter": 40
+	},
+	{
+		"id": 12,
+		"title": "Python - Django bootcamp (Cours intensif)",
+		"description": "Plongez-vous dans l'univers de Python avec notre cours intensif. Apprenez les bases et avancez rapidement grâce à des leçons condensées, des exercices pratiques et des projets concrets. Explorez les structures de contrôle, les fonctions, la manipulation de données et plus encore. Idéal pour les débutants ou ceux cherchant à consolider leurs compétences.",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/django.jpg",
+		"type": "pro",
+		"autor": 3,
+		"totalChapter": 47
+	},
+	{
+		"id": 13,
+		"title": "Laravel 10 (PRo) - Dev FullStack",
+		"description": "Découvrez Laravel, le framework PHP moderne. Apprenez à créer des applications web efficaces grâce à sa simplicité et ses fonctionnalités avancées : routopice, ORM Eloquent, sécurité. Maîtrisez la création d'API et l'authentification. Développez rapidement avec des vues élégantes grâce à Blade. Devenez un développeur Laravel compétent en suivant ce cours approfondi.",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/laravel10.jpg",
+		"type": "advanced",
+		"autor": 2,
+		"totalChapter": 25
+	},
+	{
+		"id": 14,
+		"title": "Next JS (Pro) - Programmation Fullstack",
+		"description": "Découvrez Next.js : framework React pour apps web rapides et SEO-friendly. Rendu côté serveur, routopice dynamique, gestion état, performance optimale. Apprenez SSR, SSG, API routes, déploiement Vercel.",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nextjs.png",
+		"type": "pro",
+		"autor": 2,
+		"totalChapter": 18
+	},
+	{
+		"id": 15,
+		"title": "HTML, CSS et Javascript (Pro) - Complet web",
+		"description": "Tout ce dont vous avez besoin pour faire vos débuts en programmation web",
+		"image_url": "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nextjs.png",
+		"type": "pro",
+		"autor": 3,
+		"totalChapter": 18
+	}
+]

@@ -1,5 +1,4 @@
-{
-    "authors": [
+ [
       {
         "id": 1,
         "authorName": "DevArtist",
@@ -49,5 +48,5 @@
         "isVerified": true
       }
     ]
-}
+
   
