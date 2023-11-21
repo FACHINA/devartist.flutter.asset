@@ -2,30 +2,24 @@
     {
       "id": 1,
       "image_url":
-          "https://github.com/FACHINA/devartist.flutter.asset/blob/main/course/vuejs.png?raw=true",
+          "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/sliders/vuejs.png",
       "primary_tags": "Vue JS;Réduction de 50%",
       "other_tags": "Developpement web;Frontend"
     },
     {
       "id": 2,
       "image_url":
-          "https://github.com/FACHINA/devartist.flutter.asset/blob/main/course/reactjs-2.jpg?raw=true",
+          "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/sliders/reactjs.jpeg",
       "primary_tags": "React JS;Next JS;Nouveauté",
       "other_tags": "Developpement web ; Fullsatack ; Node JS"
     },
     {
       "id": 3,
       "image_url":
-          "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/html_css.jpg",
+          "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/sliders/ux-designer.jpeg",
       "primary_tags": "HTML 5;CSS 3;Javascript",
-      "other_tags": "Developpement web ; Débutants"
-    },
-    {
-      "id": 4,
-      "image_url":
-          "https://raw.githubusercontent.com/FACHINA/devartist.flutter.asset/main/course/nextjs.jpg",
-      "primary_tags": "React JS;Next JS;Niveau Pro",
-      "other_tags": "Developpement web ; SSR Technologie ; Next Framework"
+      "other_tags": "Developpement web;UX/UI Design;Débutants"
     }
+
   ]
   
